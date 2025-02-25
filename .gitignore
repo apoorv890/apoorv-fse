@@ -1,0 +1,5 @@
+node_modules/
+.env
+venv
+vosk-model-small-en-us
+dist-electron/
